@@ -36,4 +36,4 @@ CSS: For styling the application.
    Open a terminal and run the following command to clone the project:
 
    ```bash
-   git clone https://github.com/your-username/taskbuddy-app.git
+   git clone https://github.com/SINDHU-U-T/taskbuddy-app.git
